@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+# Frontend env files hold only a public API base URL, not secrets — safe to commit.
+!frontend/.env.development
+!frontend/.env.production
+*.log
+.DS_Store
+coverage/
+.vscode/
+.idea/
