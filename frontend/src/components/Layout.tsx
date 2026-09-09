@@ -22,7 +22,7 @@ export function Layout() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
             <Leaf size={18} />
           </div>
-          <span className="font-semibold tracking-tight">Dealer CRM</span>
+          <span className="font-semibold tracking-tight">FertiGreen</span>
         </div>
 
         <nav className="flex flex-1 flex-col gap-1 px-3">

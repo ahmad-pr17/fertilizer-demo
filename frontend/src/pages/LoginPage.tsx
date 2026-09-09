@@ -41,7 +41,7 @@ export function LoginPage() {
             <Leaf size={18} />
           </div>
           <div>
-            <h1 className="text-base font-semibold leading-tight text-foreground">Dealer CRM</h1>
+            <h1 className="text-base font-semibold leading-tight text-foreground">FertiGreen</h1>
             <p className="text-xs text-muted-foreground">Ops / owner dashboard</p>
           </div>
         </div>
